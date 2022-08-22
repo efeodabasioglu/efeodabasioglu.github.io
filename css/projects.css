@@ -1,5 +1,5 @@
 em {
-    color: #1D263B;
+    color: #012D48;
 }
 
 .projects {
@@ -16,7 +16,7 @@ em {
 .card {
     display: inline-flex;
     flex-direction: column;
-    color: #1D263B;
+    color: #012D48;
 }
 
 .card:not(:last-child) {
@@ -51,7 +51,7 @@ em {
     font-size: 1.2em;
     font-weight: 700;
     letter-spacing: 0.05em;
-    color: #1D263B;
+    color: #012D48;
 }
 
 .project-links {
@@ -64,7 +64,7 @@ em {
 }
 
 .project-links a i {
-    color: #F08CAE;
+    color: #EE1928;
     font-size: 1.2em;
     transition: all 0.2s ease;
 }
@@ -97,7 +97,7 @@ em {
 }
 
 .project-description {
-    color: #1D263B;
+    color: #012D48;
 }
 
 @media only screen and (min-width: 768px) {

@@ -45,12 +45,12 @@ h4, h5 {
 
 #terminal-title {
     font-weight: 700;
-    color: #1D263B;
+    color: #012D48;
     letter-spacing: 0.1em;
 }
 
 .right-side-buttons i {
-    color: #1D263B;
+    color: #012D48;
 }
 
 .right-side-buttons i:not(:last-child) {
@@ -114,7 +114,7 @@ h4, h5 {
 }
 
 .card-info p a:hover {
-    color: #F08CAE;
+    color: #EE1928;
 }
 
 .card-description {
@@ -180,7 +180,7 @@ h4, h5 {
 }
 
 .social-media-item:hover {
-    color: #F08CAE;
+    color: #EE1928;
 }
 
 .social-media-item i {
